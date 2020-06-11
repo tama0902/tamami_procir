@@ -5,6 +5,7 @@
 <title>git1</title>
 </head>
 <body>
-<h1>Hello,world!</h1>
+<h1>Hello world!</h1>
+<h2>おはようございます</h2>
 </body>
 </html>
