@@ -5,8 +5,10 @@
 <title>git1</title>
 </head>
 <body>
-<h1>Hello world!</h1>
-<p>こんにちは</p>
+<form actioin="git2.php" method="GET">
+<input type="text" name="name">
+<input type="submit" value="送信">
+</form>
 </body>
 </html>
 
